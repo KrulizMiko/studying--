@@ -1,0 +1,13 @@
+C:\Users\vorob\Desktop\долговая яма по Логову\4курс шарпик(.Net 4)\MDK06.03\bin\Debug\MDK06.03.exe.config
+C:\Users\vorob\Desktop\долговая яма по Логову\4курс шарпик(.Net 4)\MDK06.03\bin\Debug\MDK06.03.exe
+C:\Users\vorob\Desktop\долговая яма по Логову\4курс шарпик(.Net 4)\MDK06.03\bin\Debug\MDK06.03.pdb
+C:\Users\vorob\Desktop\долговая яма по Логову\4курс шарпик(.Net 4)\MDK06.03\obj\Debug\MDK06.03.csproj.AssemblyReference.cache
+C:\Users\vorob\Desktop\долговая яма по Логову\4курс шарпик(.Net 4)\MDK06.03\obj\Debug\MDK06._03.Form1.resources
+C:\Users\vorob\Desktop\долговая яма по Логову\4курс шарпик(.Net 4)\MDK06.03\obj\Debug\MDK06._03.Properties.Resources.resources
+C:\Users\vorob\Desktop\долговая яма по Логову\4курс шарпик(.Net 4)\MDK06.03\obj\Debug\MDK06.03.csproj.GenerateResource.cache
+C:\Users\vorob\Desktop\долговая яма по Логову\4курс шарпик(.Net 4)\MDK06.03\obj\Debug\MDK06.03.csproj.CoreCompileInputs.cache
+C:\Users\vorob\Desktop\долговая яма по Логову\4курс шарпик(.Net 4)\MDK06.03\obj\Debug\MDK06.03.exe
+C:\Users\vorob\Desktop\долговая яма по Логову\4курс шарпик(.Net 4)\MDK06.03\obj\Debug\MDK06.03.pdb
+C:\Users\vorob\Desktop\долговая яма по Логову\4курс шарпик(.Net 4)\MDK06.03\obj\Debug\MDK06.03.exe.config
+C:\Users\vorob\Desktop\долговая яма по Логову\4курс шарпик(.Net 4)\MDK06.03\obj\Debug\MDK06._03.Task104.resources
+C:\Users\vorob\Desktop\долговая яма по Логову\4курс шарпик(.Net 4)\MDK06.03\obj\Debug\MDK06._03.Task105.resources
