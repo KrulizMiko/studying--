@@ -23,41 +23,76 @@ namespace MDK06._03
 
         }
 
+
         private void button1_Click(object sender, EventArgs e)
         {
+            //click checkBox -> checkBox -> button -> button -> checkBox -> checkBox
+            // Массив с порядком действий
+            string[] sequence = { "check", "check", "button", "button", "check", "check" };
 
-            if (label1.BackColor == Color.Blue && checkBox1.Checked == true)
-            {
-                label1.BackColor = Color.Red;
-            }
 
-            else if (label1.BackColor == Color.Red && checkBox1.Checked == true)
+            for (int i = 0; i < sequence.Length; i++)
             {
-                label1.BackColor = Color.Blue;
-            }
+                string currentStep = sequence[i];
 
-            else if (checkBox1.Checked == false)
-            {
-                MessageBox.Show("The box is not checked");
-            }
-            
-          
-           /* if (checkBox1.Checked == true)
-            {
-                if (label1.BackColor == Color.Red)
+                // Имитация логики для каждого шага о
+                if (currentStep == "check")
                 {
-                    label1.BackColor = Color.Blue;
+                    if (checkBox1.Checked)
+                    {
+                        // Если чекбокс нажат, меняем цвет лейбла
+                        label1.BackColor = (label1.BackColor == Color.Blue) ? Color.Red : Color.Blue;
+                        Console.WriteLine($"Шаг {i + 1}: Чекбокс сработал");
+                    }
+                    else
+                    {
+                        MessageBox.Show("The box is not checked");
+                        break; // Прерываем цикл, если условие не выполнено
+                    }
                 }
-                else
+                else if (currentStep == "button")
                 {
-                    label1.BackColor = Color.Red;
+                    // Логика для кнопки (например, просто смена цвета)
+                    label1.BackColor = (label1.BackColor == Color.Blue) ? Color.Red : Color.Blue;
+                    Console.WriteLine($"Шаг {i + 1}: Кнопка сработала");
                 }
             }
-            else
-            {
-                MessageBox.Show("The box is not checked");
-            }
-           */
+
+
+
+            /* if (label1.BackColor == Color.Blue && checkBox1.Checked == true)
+             {
+                 label1.BackColor = Color.Red;
+             }
+
+             else if (label1.BackColor == Color.Red && checkBox1.Checked == true)
+             {
+                 label1.BackColor = Color.Blue;
+             }
+
+             else if (checkBox1.Checked == false)
+             {
+                 MessageBox.Show("The box is not checked");
+             }
+             */
+
+            /* if (checkBox1.Checked == true)
+             {
+                 if (label1.BackColor == Color.Red)
+                 {
+                     label1.BackColor = Color.Blue;
+                 }
+                 else
+                 {
+                     label1.BackColor = Color.Red;
+                 }
+             }
+             else
+             {
+                 MessageBox.Show("The box is not checked");
+             }
+            */
         }
     }
 }
+
