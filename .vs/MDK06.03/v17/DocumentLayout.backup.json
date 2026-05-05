@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\vorob\\Desktop\\studying--\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E7AB848-DB02-4874-821B-B106C744650B}|MDK06.03.csproj|C:\\Users\\vorob\\Desktop\\studying--\\task105.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E7AB848-DB02-4874-821B-B106C744650B}|MDK06.03.csproj|c:\\users\\vorob\\desktop\\studying--\\task105.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E7AB848-DB02-4874-821B-B106C744650B}|MDK06.03.csproj|solutionrelative:task105.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Task105.cs",
               "ToolTip": "C:\\Users\\vorob\\Desktop\\studying--\\Task105.cs",
               "RelativeToolTip": "Task105.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCkAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T17:34:28.712Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\vorob\\Desktop\\studying--\\Task105.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Task105.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T17:34:27.472Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2026-03-29T17:34:27.472Z"
             }
           ]
         }
