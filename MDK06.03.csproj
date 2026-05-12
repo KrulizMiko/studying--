@@ -54,6 +54,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Talker.cs" />
     <Compile Include="Task104.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -65,6 +66,12 @@
     </Compile>
     <Compile Include="Task105.Designer.cs">
       <DependentUpon>Task105.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Task116.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Task116.Designer.cs">
+      <DependentUpon>Task116.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -83,6 +90,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Task105.resx">
       <DependentUpon>Task105.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Task116.resx">
+      <DependentUpon>Task116.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

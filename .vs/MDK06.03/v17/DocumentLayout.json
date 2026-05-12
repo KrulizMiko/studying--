@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\vorob\\Desktop\\studying--\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E7AB848-DB02-4874-821B-B106C744650B}|MDK06.03.csproj|c:\\users\\vorob\\desktop\\studying--\\task105.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E7AB848-DB02-4874-821B-B106C744650B}|MDK06.03.csproj|solutionrelative:task105.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E7AB848-DB02-4874-821B-B106C744650B}|MDK06.03.csproj|c:\\users\\vorob\\desktop\\studying--\\task116.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7AB848-DB02-4874-821B-B106C744650B}|MDK06.03.csproj|solutionrelative:task116.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E7AB848-DB02-4874-821B-B106C744650B}|MDK06.03.csproj|C:\\Users\\vorob\\Desktop\\studying--\\task105.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0E7AB848-DB02-4874-821B-B106C744650B}|MDK06.03.csproj|solutionrelative:task105.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0E7AB848-DB02-4874-821B-B106C744650B}|MDK06.03.csproj|C:\\Users\\vorob\\Desktop\\studying--\\task116.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E7AB848-DB02-4874-821B-B106C744650B}|MDK06.03.csproj|solutionrelative:task116.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7AB848-DB02-4874-821B-B106C744650B}|MDK06.03.csproj|C:\\Users\\vorob\\Desktop\\studying--\\talker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7AB848-DB02-4874-821B-B106C744650B}|MDK06.03.csproj|solutionrelative:talker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7AB848-DB02-4874-821B-B106C744650B}|MDK06.03.csproj|C:\\Users\\vorob\\Desktop\\studying--\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7AB848-DB02-4874-821B-B106C744650B}|MDK06.03.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vorob\\Desktop\\studying--\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vorob\\Desktop\\studying--\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T18:24:21.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Talker.cs",
+              "DocumentMoniker": "C:\\Users\\vorob\\Desktop\\studying--\\Talker.cs",
+              "RelativeDocumentMoniker": "Talker.cs",
+              "ToolTip": "C:\\Users\\vorob\\Desktop\\studying--\\Talker.cs",
+              "RelativeToolTip": "Talker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T18:23:08.623Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Task105.cs",
-              "DocumentMoniker": "C:\\Users\\vorob\\Desktop\\studying--\\Task105.cs",
-              "RelativeDocumentMoniker": "Task105.cs",
-              "ToolTip": "C:\\Users\\vorob\\Desktop\\studying--\\Task105.cs",
-              "RelativeToolTip": "Task105.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAAvAAAAAAAAAA==",
+              "Title": "Task116.cs",
+              "DocumentMoniker": "C:\\Users\\vorob\\Desktop\\studying--\\Task116.cs",
+              "RelativeDocumentMoniker": "Task116.cs",
+              "ToolTip": "C:\\Users\\vorob\\Desktop\\studying--\\Task116.cs",
+              "RelativeToolTip": "Task116.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwD0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T17:34:28.712Z",
+              "WhenOpened": "2026-05-12T18:21:47.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Task105.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\vorob\\Desktop\\studying--\\Task105.cs",
-              "RelativeDocumentMoniker": "Task105.cs",
-              "ToolTip": "C:\\Users\\vorob\\Desktop\\studying--\\Task105.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Task105.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "Task116.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\vorob\\Desktop\\studying--\\Task116.cs",
+              "RelativeDocumentMoniker": "Task116.cs",
+              "ToolTip": "C:\\Users\\vorob\\Desktop\\studying--\\Task116.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task116.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T17:34:27.472Z"
+              "WhenOpened": "2026-05-12T18:11:11.638Z"
             }
           ]
         }

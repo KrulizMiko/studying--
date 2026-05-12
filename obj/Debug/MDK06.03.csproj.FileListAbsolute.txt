@@ -24,3 +24,4 @@ C:\Users\vorob\Desktop\studying--\obj\Debug\MDK06.03.csproj.GenerateResource.cac
 C:\Users\vorob\Desktop\studying--\obj\Debug\MDK06.03.csproj.CoreCompileInputs.cache
 C:\Users\vorob\Desktop\studying--\obj\Debug\MDK06.03.exe
 C:\Users\vorob\Desktop\studying--\obj\Debug\MDK06.03.pdb
+C:\Users\vorob\Desktop\studying--\obj\Debug\MDK06._03.Task116.resources
