@@ -30,43 +30,49 @@ namespace MDK06._03
 
         private void button2_Click(object sender, EventArgs e)
         {
-
-
-          
             string input = textBox1.Text;
 
-            // Если пусто — ставим дефолтное слово, как на скрине
             if (string.IsNullOrEmpty(input))
             {
-                input = "Вагончик";
-            }
-
-            // Делаем длину нечетной для симметрии
-            if (input.Length % 2 == 0 && input.Length > 0)
-            {
-                input = input.Substring(0, input.Length - 1);
+                input = "123456789"; // Дефолтное значение для теста
             }
 
             StringBuilder pyramid = new StringBuilder();
-            int maxWidth = input.Length;
+            string currentWord = input;
 
-            // Строим уровни пирамиды
-            for (int level = 0; level < (maxWidth + 1) / 2; level++)
+            // Цикл работает, пока длина строки позволяет отрезать символы
+            while (currentWord.Length > 0)
             {
-                int numChars = maxWidth - 2 * level;
-                int startIndex = level;
+                // 1. Вычисляем пробелы для центрирования относительно исходного слова
+                int totalSpacesNeeded = input.Length - currentWord.Length;
+                int spacesLeft = totalSpacesNeeded / 2;
 
-                // Вырезаем часть слова для текущего уровня
-                string currentLevel = input.Substring(startIndex, numChars);
+                // Вместо обычного пробела ' ' используем Юникод-пробел '\u2003'
+                string paddedLine = new string('\u2007', spacesLeft) + currentWord;
 
-                // Добавляем пробелы и текст
-                string spaces = new string(' ', level);
-                pyramid.Append(spaces);
-                pyramid.AppendLine(currentLevel);
+                pyramid.AppendLine(paddedLine);
+
+                // 2. Если остался 1 или 2 символа, после удаления ничего не останется
+                if (currentWord.Length <= 2)
+                {
+                    break;
+                }
+
+                // 3. Отсекаем первый и последний символ для следующего уровня
+                currentWord = currentWord.Substring(1, currentWord.Length - 2);
             }
 
-            // Вывод результата
-            MessageBox.Show(pyramid.ToString(), "Результат");
+            // Вывод в MessageBox с использованием системного моноширинного шрифта
+            MessageBox.Show(
+                pyramid.ToString()
+                
+
+            );
+
+
+
+
+
         }
 
     }
